@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 5px;
+    margin: auto;
+    margin-top: 60px;
+    font-size: 25px;
+    text-align: center;
+    color: #2e07dc;
+    margin-bottom: 20px;
+}
+
+h2{
+    margin: auto;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+
+}
+p{
+    margin: auto;
+    font-size: 13px;
+   
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.box{
+    width: 450px;
+    height: 95vh;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
